@@ -1,0 +1,10 @@
+[package]
+name = "owl-fts"
+version = "0.1.0"
+authors = ["Victor Gama <hey@vito.io>", "Real Artists <we@realartists.io>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+base64 = "0.13.0"
+flate2 = "1.0"
